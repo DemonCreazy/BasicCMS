@@ -4,5 +4,6 @@
  * @author Daniel (Nasty35)
  */
  
-$lang = 'es';
+$lang = 'es'; // Español / Spanish
+#$lang = 'en'; // Inglés / English
 ?>
